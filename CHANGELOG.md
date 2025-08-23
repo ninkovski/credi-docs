@@ -1,16 +1,14 @@
-# 📜 CHANGELOG
+# Changelog
+Todas las modificaciones importantes de este proyecto se documentarán en este archivo.
 
-## semana-1
-- Planeación y documentación inicial (HU-1, HU-2).
+El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
+y este proyecto sigue [Versionado Semántico](https://semver.org/lang/es/).
 
-## semana-2
-- Autenticación y listado de solicitudes.
 
-## semana-3
-- Contenerización y aprobación/rechazo manual.
-
-## semana-4
-- Validación automática y reportes (cantidad, monto).
-
-## semana-5
-- Despliegue AWS y reportes programados.
+## [CRES0-V1.0.0] - 2025-08-22
+### Added
+- Creación inicial del proyecto `docs`.
+- Configuración base de la estructura de carpetas.
+- Documentación inicial para el repositorio.
+- Archivo `README.md` con la descripción del proyecto.
+- Configuración de Git y creación del branch inicial.
