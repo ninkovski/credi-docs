@@ -81,18 +81,18 @@ Consulta la guía completa en [branching.md](./standards/branching.md).
 ### [Planeación](./planning)
 - `/planning/CRES1HU-01.md` – Semana 1 (HU-1)
 - `/planning/CRES1HU-02.md` – Semana 1 (HU-2)
-- 
+
 - `/planning/CRES2HU-03.md` – Semana 2 (HU-3)
 - `/planning/CRES2HU-04.md` – Semana 2 (HU-4)
-- 
+
 - `/planning/CRES3HU-05.md` – Semana 3 (HU-5)
 - `/planning/CRES3HU-06.md` – Semana 3 (HU-6)
 - `/planning/CRES3HU-07.md` – Semana 3 (HU-7)
-- 
+
 - `/planning/CRES4HU-08.md` – Semana 4 (HU-8)
 - `/planning/CRES4HU-09.md` – Semana 4 (HU-9)
 - `/planning/CRES4HU-10.md` – Semana 4 (HU-10)
-- 
+
 - `/planning/CRES5HU-11.md` – Semana 5 (HU-11)
 
 ### [Estándares](./standards)

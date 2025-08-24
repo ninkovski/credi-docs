@@ -49,7 +49,7 @@ La plataforma está organizada en **microservicios independientes** bajo un enfo
 ---
 
 ## 🔹 Diagrama general
-![Arquitectura](./architecture/architecture.png)
+![Arquitectura](./architecture.png)
 
 ---
 
